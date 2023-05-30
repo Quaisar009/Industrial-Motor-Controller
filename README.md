@@ -1,1 +1,1 @@
-# Industrial-Motor-Controller
+# Industrial-Motor-Controller-LABCRIS-INSTRUMENTS
